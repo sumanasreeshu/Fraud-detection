@@ -11,7 +11,7 @@ transactions, helping to minimize false positives while maximizing fraud detecti
 - Machine Learning Models: Deployed multiple classification models, including **Logistic Regression, Random Forest, and Gradient Boosting. By tuning hyperparameters and using GridSearchCV**, the project achieved a balanced model with high precision and recall.
 - Evaluation Metrics: Assessed model performance using **precision, recall, and AUC**, which allowed for fine-tuning to minimize false positives and enhance detection accuracy.
 - Impactful Results
-The final fraud detection model **achieved 90% precision and 88% recall, demonstrating a high ability to correctly identify fraudulent transactions while keeping the rate of false positives low**. The use of resampling techniques and model tuning ensured the model's robustness, providing a practical solution that can be directly applied in real-world financial systems.
+The final fraud detection model achieved high precision and recall, demonstrating a high ability to correctly identify fraudulent transactions while keeping the rate of false positives low. The use of resampling techniques and model tuning ensured the model's robustness, providing a practical solution that can be directly applied in real-world financial systems.
 
 Usage
 To explore and utilize the analysis:
